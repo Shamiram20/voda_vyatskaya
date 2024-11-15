@@ -1,0 +1,60 @@
+.background {
+    background-image: url('/public/images/logo2.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    text-align: left;
+
+}
+
+.text {
+    font-size: 56px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 100;
+    color: #FFFFFF;
+    padding: 180px 85px;
+
+}
+
+.phone-input {
+    border-radius: 10px;
+    border: 1px solid #FFFFFF;
+
+    padding: 15px;
+    background-color: #A4EAFF80;
+
+    padding-right: 90px;
+    ;
+}
+
+::placeholder {
+    color: #FFFFFF99;
+    font-weight: bold;
+    font-size: 16px;
+    opacity: 0.8;
+}
+
+.order-button {
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #EC1F3A;
+    position: absolute;
+    right: 0;
+    height: 100%;
+    color: #FFFFFF;
+    font-weight: bold;
+
+}
+
+.order-button:hover {
+    cursor: pointer;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+    padding-left: 85px;
+
+}

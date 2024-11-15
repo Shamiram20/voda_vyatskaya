@@ -1,0 +1,26 @@
+.contact-container {
+    position: absolute;
+    top: 110px;
+    right: 85px;
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    gap: 10px;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3287BF;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    cursor: pointer;
+}
+
+.img {
+    width: 25px;
+    height: 25px;
+}

@@ -1,0 +1,21 @@
+.image{
+    position: absolute;
+    left: 730px;
+    top: 300px;
+}
+.relative{
+    position: relative;
+ 
+
+
+}
+.relative img{
+    width: 363px;
+    height: 485px;
+}
+.absolute{
+    position: absolute;
+    top: 5px;
+    left: 180px;
+  
+}
