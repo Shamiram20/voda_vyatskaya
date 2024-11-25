@@ -29,9 +29,10 @@
 }
 
 .content-background {
-  background-color: #D0EBF2;
+background-image: url('/public/images/background.png');
+background-size: cover; /* Ensures the image covers the entire screen */
+  background-repeat: no-repeat; /* Prevents repetition */
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

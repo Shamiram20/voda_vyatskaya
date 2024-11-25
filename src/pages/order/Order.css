@@ -5,6 +5,7 @@
     height: 100vh;
     width: 100%;
     text-align: left;
+    
 
 }
 
@@ -13,19 +14,16 @@
     font-family: 'Arial', sans-serif;
     font-weight: 100;
     color: #FFFFFF;
-    padding: 180px 85px;
+    padding: 120px 85px;
 
 }
 
 .phone-input {
     border-radius: 10px;
     border: 1px solid #FFFFFF;
-
     padding: 15px;
     background-color: #A4EAFF80;
-
     padding-right: 90px;
-    ;
 }
 
 ::placeholder {

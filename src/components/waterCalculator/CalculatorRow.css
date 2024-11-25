@@ -1,0 +1,12 @@
+.calculator-row {
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+    padding: 20px 45px;
+    max-width: 135px;
+    max-height: 200px;
+}
+.calcSpan{
+    height: 43.2px;
+  }
+ 

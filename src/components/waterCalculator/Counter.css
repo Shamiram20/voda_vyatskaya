@@ -1,0 +1,25 @@
+.counter{
+    display: flex;
+    justify-content: space-between;
+      }
+      .counter button{
+    color:  #8399A9;
+    border: none;
+    background-color: #FFFFFF;
+    font-size: 20px;
+    cursor: pointer;
+    
+      }
+      .counter span{
+        border: 1px solid #50BEFF;
+        border-radius: 10px;
+        padding: 18px;
+        color: #000000;
+        font-family: Sen;
+    font-size: 16.58px;
+    font-weight: 700;
+    text-align: center;
+    
+    
+        ;
+      }

@@ -1,0 +1,29 @@
+.button-group {
+
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    padding-top: 10px;
+}
+
+.button-group button {
+    border-radius: 9px;
+    padding: 5px;
+    border: 0.92px solid #006FCC;
+    cursor: pointer;
+    min-width: 120px;
+
+
+
+
+}
+
+.second {
+    background-color: #006FCC;
+    color: #FFFFFF;
+}
+
+.first {
+    background-color: #FFFFFF;
+
+}
