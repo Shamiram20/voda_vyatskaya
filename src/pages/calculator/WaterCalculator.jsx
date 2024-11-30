@@ -11,7 +11,7 @@ function WaterCalculator() {
 
     return (
         <div className="calculator-container">
-            <CalculatorHeader />
+            <CalculatorHeader title="Калькулятор воды"/>
             <div className="calculator-section">
                 <CalculatorRow
                     label="МЫ ЗАКАЗЫВАЕМ ВОДУ"

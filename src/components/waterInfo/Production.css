@@ -1,0 +1,36 @@
+ 
+  .video-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .video-container img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .production-section {
+    margin: 30px 85px;
+
+  }
+  
+  .production-section h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  .play-button {
+    position: absolute;
+    top: 50%;
+    left: 46%;
+
+    border: none;
+    width: 80px;
+    height: 70px;
+    display: flex;
+    cursor: pointer;
+    background: none;
+  }
+  
+ 

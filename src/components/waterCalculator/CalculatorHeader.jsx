@@ -1,8 +1,8 @@
 import "./CalculatorHeader.css"
 
-function CalculatorHeader() {
+function CalculatorHeader({ title }) {
     return (
-        <h1>Калькулятор воды</h1>
+        <h1>{title}</h1>
     );
 }
 
