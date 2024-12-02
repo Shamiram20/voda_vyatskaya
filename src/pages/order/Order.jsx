@@ -1,5 +1,5 @@
 import "./Order.css"
-import ContactContainer from "../../components/contact-container/ContactContainer";
+import ContactContainer from "../../components/contactContainer/ContactContainer";
 import Image from "../../components/img/Image";
 import Navbar from "../../components/nav/Nav";
 

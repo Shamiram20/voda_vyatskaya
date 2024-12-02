@@ -1,5 +1,6 @@
 import './App.css';
 import WaterCalculator from './pages/calculator/WaterCalculator';
+import Footer from './pages/footer/Footer';
 import WaterInfo from './pages/information/WaterInfo';
 import MainCatalog from './pages/mainCatalog/MainCatalog';
 import Order from './pages/order/Order';
@@ -16,6 +17,7 @@ function App() {
         <WaterCalculator />
         <MainCatalog />
         <WaterInfo />
+        <Footer />
       </div>
     </div>
   );
